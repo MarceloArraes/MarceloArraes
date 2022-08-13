@@ -7,7 +7,7 @@
 *🗄️ Nodejs, Django*  
 
 ##
-Sou formado em Sistemas de Inforação na Federal do Ceará. Durante a faculdade sempre me envolvi com programação. Fui monitor de fundamentos de programação e participei da equipe de maratona de programação. Saí da faculdade já perto do término para seguir uma carreira empresarial administrando a Distribuidora de alimentos para animais da família.  
+Sou formado em Sistemas de Informação na Federal do Ceará. Durante a faculdade sempre me envolvi com programação. Fui monitor de fundamentos de programação e participei da equipe de maratona de programação. Saí da faculdade já perto do término para seguir uma carreira empresarial administrando a Distribuidora de alimentos para animais da família.  
 A mais de um ano voltei a estudar programação afim de fazer a transição de carreira que desejo. Nesse meio tempo tirei a certificação de Harvard de Web Development, aprendi a usar as plataformas da Amazon (AWS) e da Oracle(onde meu primeiro deploy está hosteado), me aprofundei em Linux e aprendi sobre Web3 em geral e a Blockchain da Cardano em específico. Hoje estudo Nextjs, Typescript e testes.  
 Visitem meus projetos onde tentarei deixar as descrições o mais breves e explicativas for possível. 
 
