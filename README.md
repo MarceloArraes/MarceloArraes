@@ -21,6 +21,6 @@ Visitem meus projetos onde tentarei deixar as descrições o mais breves e expli
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloarraes)](https://github.com/marceloarraes/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloarraes)](https://github.com/marceloarraes/github-readme-stats)-->
 
 :suspect:
