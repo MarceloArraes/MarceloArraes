@@ -15,7 +15,8 @@ I'm a passionate developer with expertise in React.js, Next.js, and Typescript. 
   <a href="https://www.instagram.com/marcelo.arraes123/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloarraes)](https://github.com/marceloarraes/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloarraes)](https://github.com/marceloarraes/github-readme-stats)
+
 
 
 :suspect:
