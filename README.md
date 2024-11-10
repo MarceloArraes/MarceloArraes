@@ -20,7 +20,7 @@ For in every line, a vision is fulfilled.
 - 🗄️ **Backend**: Node.js, PHP, Golang (learning)
 - 💻 **General** Docker, Linux, Jira, git 
 
-## My Social Networks
+## My Socials
 <div>
   <a href="https://www.linkedin.com/in/Marcelo-Arraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/marcelo.arraess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,7 +28,11 @@ For in every line, a vision is fulfilled.
 </div>
 
 ## Languages and Stats 📊
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,php,aws,docker,git,github,linux,postgres" alt="Skills and tools"/>
+  </a>
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloarraes)](https://github.com/marceloarraes/github-readme-stats)
 
 ## Featured Projects 🚀
