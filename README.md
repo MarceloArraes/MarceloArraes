@@ -33,6 +33,7 @@ For in every line, a vision is fulfilled.
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,php,aws,docker,git,github,linux,postgres" alt="Skills and tools"/>
   </a>
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloarraes)](https://github.com/marceloarraes/github-readme-stats)
 
 ## Featured Projects 🚀
