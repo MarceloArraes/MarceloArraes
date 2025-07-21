@@ -1,16 +1,5 @@
 ### Hi, I'm Marcelo! 👋
 
-In a Hurry to Learn  
-In a hurry to learn, eager to ship,  
-Carrying ideas that constantly slip.  
-More than I code, they swirl in my mind,  
-Fueling my journey, leaving none behind.  
-
-In every free moment, I study, I grow,  
-Finding joy in the depths of what I know.  
-The path ahead may twist and turn,  
-But it’s the drive that makes me burn.  
-
 Feel free to reach on [Linkedin](https://www.linkedin.com/in/mararraes/),  
 let's talk, let's build,  
 For in every line, a vision is fulfilled.  
