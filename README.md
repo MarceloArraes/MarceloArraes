@@ -29,5 +29,6 @@ For in every line, a vision is fulfilled.
 - [Goals Tracker](https://github.com/MarceloArraes/PersonalMetas): A personal goal tracker made with react and nodejs with drizzle, postgres and zod.
 - [Neon Portfolio](https://github.com/MarceloArraes/MyNeonPortfolio): A fun project of a neon portfolio with nextjs using react-95 and threejs and other stuff.
 
+<img src="https://count.getloli.com/@:marceloarraes?theme=nixietube-1" alt="marcelo-moe-counter" />
 
 :suspect:
